@@ -1,0 +1,13 @@
+{
+  "name": "babel-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "th0r",
+  "dependencies": {
+    "babel": "4.6.1",
+    "babel-runtime": "4.6.1"
+  }
+}
